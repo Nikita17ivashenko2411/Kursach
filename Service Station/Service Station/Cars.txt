@@ -1,0 +1,5 @@
+Renault Iliada 1998 400000 1 11111111 Белый
+Mercedes Sprinter2 2019 100000 1 12345678 Серый
+Hyundai BogdanA201 2011 400000 2 14714714 Зелёный
+Renault Master 2018 135000 2 55555555 Черный
+Renault Laguna 2003 400000 2 77777777 Бриллиантовый

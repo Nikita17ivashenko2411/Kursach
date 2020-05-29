@@ -1,0 +1,22 @@
+﻿  Account.cpp
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Account.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Account.cpp(41,21): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Account.cpp(73,22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Account.cpp(108,22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Account.cpp(146,22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Account.cpp(242,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Work with the console.cpp
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(118,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(120,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(137,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(167,24): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(233,22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(246,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(364,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(371,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(378,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(385,20): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(570,25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Service Station\Work with the console.cpp(578,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Service Station.vcxproj -> D:\My Documents\Курсовая работа 4 семестр\Service Station\Service Station\Debug\Service Station.exe
